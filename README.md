@@ -4,8 +4,8 @@ Modular IoT system for water quality monitoring and control — designed for aqu
 
 📚 Available in:
 
-- [🇮🇩 Bahasa Indonesia](docs/README.ID.md)
-- [🇬🇧 English](docs/README.EN.md)
+- [🇮🇩 Bahasa Indonesia](docs/README.id.md)
+- [🇬🇧 English](docs/README.en.md)
 
 📦 Project Structure:
 
