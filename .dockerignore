@@ -1,0 +1,16 @@
+# Ignore node_modules & build artifacts
+node_modules
+npm-debug.log
+dist
+.next
+build
+tmp
+
+# Ignore config files and local envs
+.env
+.env.local
+
+# Ignore misc
+.git
+.gitignore
+.vscode

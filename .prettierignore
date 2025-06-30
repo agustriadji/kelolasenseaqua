@@ -1,0 +1,34 @@
+# OS
+.DS_Store
+
+# Node.js & Next.js
+node_modules
+.next
+out
+dist
+
+# Flutter
+build
+.dart_tool
+
+# Python/Go
+__pycache__/
+*.egg-info
+*.test
+*.out
+
+# PlatformIO
+.pio
+
+# Generated
+*.log
+*.lock
+*.min.js
+
+# VCS
+.git
+.gitignore
+
+# VSCode
+.vscode
+.idea

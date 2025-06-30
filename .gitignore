@@ -1,0 +1,67 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Node.js (Next.js admin web)
+node_modules/
+.env
+.env.local
+.next/
+out/
+
+# Flutter (mobile app)
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Go
+bin/
+*.exe
+*.test
+*.out
+
+# NestJS (services)
+dist/
+node_modules/
+.env
+
+# PlatformIO (firmware)
+.pio/
+.vscode/
+*.elf
+*.bin
+*.hex
+
+# KiCad
+*.bak
+*.kicad_prl
+*.net
+*.tmp
+*.xml
+*.pdf
+*.ps
+*.dcm
+*.sch-bak
+*.lib-bak
+*.cache
+*.backup
+fp-info-cache
+
+# Docker
+*.log
+
+# Misc
+.idea/
+.vscode/
+*.log
+coverage/
+docs/temp/
+diagrams/temp/
